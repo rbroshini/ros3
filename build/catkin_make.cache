@@ -1,0 +1,2 @@
+practical2
+-DCATKIN_DEVEL_PREFIX=/home/unifact/team_ws/devel -DCMAKE_INSTALL_PREFIX=/home/unifact/team_ws/install -G Unix Makefiles

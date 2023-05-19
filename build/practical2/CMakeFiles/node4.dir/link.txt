@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/node4.dir/src/node4.cpp.o  -o /home/unifact/team_ws/devel/lib/practical2/node4 

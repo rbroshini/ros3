@@ -1,0 +1,8 @@
+prefix=/home/unifact/team_ws/devel
+
+Name: practical2
+Description: Description of practical2
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

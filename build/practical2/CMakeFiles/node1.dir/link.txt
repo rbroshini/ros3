@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/node1.dir/src/node1.cpp.o  -o /home/unifact/team_ws/devel/lib/practical2/node1 
